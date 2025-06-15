@@ -27,7 +27,7 @@ pip install fastapi uvicorn pyheif pillow python-multipart
 uvicorn main:app --host 127.0.0.1 --port 8000
 ```
 
-## пПроверка сервера
+## Проверка сервера
 
 ```bash
 
